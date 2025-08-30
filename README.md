@@ -29,6 +29,7 @@ This project simulates the decision-making process of a marketing analyst at a c
 ---
 
 ## 📂 Repository Structure
+```
 campus-ad-spend-efficiency/
 │── data/ # raw + cleaned datasets
 │── notebooks/ # Jupyter notebooks (cleaning, EDA, attribution, A/B testing)
@@ -37,7 +38,7 @@ campus-ad-spend-efficiency/
 │── reports/ # business summary report (PDF)
 │── requirements.txt # Python dependencies
 │── README.md # documentation
-
+```
 ---
 
 ## 🛠️ Tech Stack
