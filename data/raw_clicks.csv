@@ -1,0 +1,212 @@
+click_id,impression_id,user_id,channel,campaign_id,ad_placement,click_timestamp,device_type,audience_segment
+click_00000000,imp_00000011,user_002691,Google Search,camp_005,placement_026,2024-08-01 02:03:07,mobile,students
+click_00000001,imp_00000034,user_004930,Campus TV,camp_019,placement_025,2024-04-01 01:00:55,tablet,staff
+click_00000002,imp_00000052,user_004847,TikTok,camp_009,placement_010,2024-11-26 17:00:57,desktop,staff
+click_00000003,imp_00000107,user_000055,TikTok,camp_018,placement_007,2024-06-10 00:02:26,mobile,students
+click_00000004,imp_00000109,user_002539,Campus TV,camp_004,placement_037,2024-10-14 23:02:09,mobile,students
+click_00000005,imp_00000179,user_000303,Campus TV,camp_017,placement_012,2024-05-24 07:02:01,desktop,alumni
+click_00000006,imp_00000193,user_003041,Campus Radio,camp_018,placement_005,2024-05-25 18:02:33,desktop,staff
+click_00000007,imp_00000231,user_000703,Display Network,camp_019,placement_023,2024-07-02 02:02:56,desktop,faculty
+click_00000008,imp_00000261,user_000575,YouTube,camp_013,placement_034,2024-10-28 22:02:37,desktop,students
+click_00000009,imp_00000327,user_001674,YouTube,camp_012,placement_047,2024-04-27 21:04:11,mobile,students
+click_00000010,imp_00000490,user_001811,Campus Radio,camp_002,placement_013,2024-01-30 12:01:37,tablet,students
+click_00000011,imp_00000509,user_001271,Google Search,camp_012,placement_023,2024-08-06 07:04:15,desktop,alumni
+click_00000012,imp_00000545,user_004515,TikTok,camp_013,placement_046,2024-01-28 15:02:30,desktop,faculty
+click_00000013,imp_00000564,user_001756,Campus TV,camp_019,placement_042,2024-03-12 17:00:09,tablet,staff
+click_00000014,imp_00000600,user_000496,TikTok,camp_005,placement_045,2024-09-30 09:00:41,mobile,staff
+click_00000015,imp_00000640,user_003816,Campus Radio,camp_015,placement_031,2024-02-18 23:01:57,mobile,faculty
+click_00000016,imp_00000649,user_003310,Campus Radio,camp_006,placement_025,2024-04-01 15:03:09,mobile,faculty
+click_00000017,imp_00000854,user_004022,Campus TV,camp_019,placement_002,2024-06-05 19:00:50,desktop,students
+click_00000018,imp_00000941,user_000850,Instagram,camp_011,placement_049,2024-01-30 06:04:14,desktop,faculty
+click_00000019,imp_00001089,user_003710,Instagram,camp_004,placement_020,2024-03-16 01:03:30,mobile,staff
+click_00000020,imp_00001092,user_000762,Campus Radio,camp_014,placement_006,2024-06-14 10:04:17,mobile,students
+click_00000021,imp_00001143,user_002219,Instagram,camp_004,placement_032,2024-08-05 15:00:25,desktop,staff
+click_00000022,imp_00001178,user_003760,Display Network,camp_017,placement_004,2024-06-11 18:04:33,mobile,faculty
+click_00000023,imp_00001226,user_003192,Display Network,camp_006,placement_021,2024-09-23 10:01:48,desktop,staff
+click_00000024,imp_00001319,user_003081,Instagram,camp_011,placement_025,2024-02-15 01:03:34,desktop,students
+click_00000025,imp_00001340,user_002059,Facebook,camp_003,placement_015,2024-05-09 02:02:20,mobile,students
+click_00000026,imp_00001384,user_004457,Facebook,camp_003,placement_049,2024-10-09 07:00:08,mobile,faculty
+click_00000027,imp_00001429,user_000533,YouTube,camp_006,placement_044,2024-01-09 19:02:11,mobile,faculty
+click_00000028,imp_00001449,user_002527,Campus TV,camp_016,placement_047,2024-04-30 07:01:30,desktop,faculty
+click_00000029,imp_00001452,user_001152,Google Search,camp_002,placement_017,2024-12-18 14:03:00,desktop,students
+click_00000030,imp_00001496,user_004942,Display Network,camp_006,placement_017,2024-05-18 03:00:45,mobile,alumni
+click_00000031,imp_00001591,user_002846,YouTube,camp_012,placement_021,2024-06-29 02:03:55,desktop,alumni
+click_00000032,imp_00001643,user_001837,Instagram,camp_008,placement_022,2024-04-19 00:00:49,mobile,students
+click_00000033,imp_00001683,user_002135,YouTube,camp_009,placement_034,2024-09-27 00:04:41,desktop,students
+click_00000034,imp_00001746,user_000839,Google Search,camp_001,placement_014,2024-05-29 12:04:04,mobile,staff
+click_00000035,imp_00001764,user_002109,TikTok,camp_019,placement_038,2024-03-30 20:04:45,mobile,alumni
+click_00000036,imp_00001835,user_003492,Instagram,camp_006,placement_015,2024-02-02 18:00:18,desktop,faculty
+click_00000037,imp_00001964,user_004477,TikTok,camp_010,placement_012,2024-01-01 18:02:39,mobile,staff
+click_00000038,imp_00001975,user_001690,Campus TV,camp_009,placement_032,2024-12-17 05:03:55,tablet,students
+click_00000039,imp_00001979,user_002065,Google Search,camp_012,placement_022,2024-04-21 03:04:36,mobile,staff
+click_00000040,imp_00002022,user_001038,Instagram,camp_016,placement_031,2024-09-28 05:02:01,desktop,staff
+click_00000041,imp_00002060,user_002588,Campus Radio,camp_014,placement_046,2024-03-09 09:01:29,desktop,faculty
+click_00000042,imp_00002091,user_003487,TikTok,camp_011,placement_048,2024-04-29 12:02:47,desktop,staff
+click_00000043,imp_00002116,user_000038,Google Search,camp_006,placement_037,2024-05-07 09:03:33,desktop,faculty
+click_00000044,imp_00002131,user_003143,Campus Radio,camp_010,placement_017,2024-04-07 18:02:56,mobile,students
+click_00000045,imp_00002132,user_001171,Campus TV,camp_017,placement_018,2024-04-05 18:03:56,mobile,students
+click_00000046,imp_00002176,user_002195,Google Search,camp_003,placement_036,2024-12-25 21:03:36,tablet,students
+click_00000047,imp_00002210,user_004546,Instagram,camp_013,placement_017,2024-10-25 04:00:05,mobile,students
+click_00000048,imp_00002292,user_003483,Facebook,camp_018,placement_049,2024-07-08 03:04:35,desktop,students
+click_00000049,imp_00002310,user_000189,Facebook,camp_007,placement_042,2024-09-19 22:03:24,mobile,students
+click_00000050,imp_00002312,user_002366,Campus Radio,camp_014,placement_044,2024-12-19 02:03:32,desktop,students
+click_00000051,imp_00002387,user_001753,Campus TV,camp_004,placement_027,2024-10-13 01:00:31,tablet,students
+click_00000052,imp_00002388,user_001708,Campus Radio,camp_008,placement_044,2024-08-26 19:01:05,mobile,alumni
+click_00000053,imp_00002570,user_003196,Campus TV,camp_006,placement_048,2024-02-14 05:01:00,mobile,staff
+click_00000054,imp_00002575,user_004486,TikTok,camp_013,placement_023,2024-10-26 10:03:52,mobile,alumni
+click_00000055,imp_00002579,user_000805,Display Network,camp_011,placement_035,2024-04-23 23:01:22,desktop,faculty
+click_00000056,imp_00002603,user_002424,TikTok,camp_016,placement_019,2024-08-05 08:03:31,mobile,students
+click_00000057,imp_00002651,user_000700,Facebook,camp_015,placement_015,2024-07-27 02:02:21,tablet,students
+click_00000058,imp_00002693,user_002516,Campus TV,camp_015,placement_025,2024-12-21 10:03:09,mobile,staff
+click_00000059,imp_00002718,user_004625,Campus TV,camp_015,placement_022,2024-07-23 19:02:53,desktop,students
+click_00000060,imp_00002725,user_003672,YouTube,camp_014,placement_009,2024-12-13 11:01:50,desktop,students
+click_00000061,imp_00002740,user_000389,YouTube,camp_014,placement_037,2024-02-28 02:04:55,mobile,students
+click_00000062,imp_00002762,user_002173,Campus Radio,camp_001,placement_014,2024-10-26 20:01:17,desktop,students
+click_00000063,imp_00002805,user_001400,Campus TV,camp_008,placement_048,2024-08-11 14:03:31,mobile,staff
+click_00000064,imp_00002909,user_001586,YouTube,camp_014,placement_029,2024-10-21 02:00:25,desktop,faculty
+click_00000065,imp_00002974,user_003628,TikTok,camp_005,placement_029,2024-12-11 01:00:30,desktop,faculty
+click_00000066,imp_00003049,user_004495,Campus Radio,camp_012,placement_027,2024-06-10 03:00:19,mobile,alumni
+click_00000067,imp_00003090,user_000379,Campus TV,camp_006,placement_013,2024-01-21 05:00:22,mobile,students
+click_00000068,imp_00003141,user_001803,YouTube,camp_003,placement_038,2024-12-25 20:02:11,mobile,alumni
+click_00000069,imp_00003244,user_001556,Instagram,camp_009,placement_028,2024-03-28 18:04:26,desktop,staff
+click_00000070,imp_00003280,user_004673,TikTok,camp_009,placement_023,2024-08-26 06:03:32,desktop,students
+click_00000071,imp_00003331,user_004939,Campus Radio,camp_009,placement_030,2024-03-10 20:02:03,mobile,students
+click_00000072,imp_00003498,user_002784,TikTok,camp_008,placement_049,2024-11-05 00:02:56,tablet,alumni
+click_00000073,imp_00003500,user_003440,Instagram,camp_002,placement_024,2024-12-01 13:00:31,desktop,students
+click_00000074,imp_00003528,user_002924,Facebook,camp_009,placement_023,2024-07-07 08:04:24,mobile,alumni
+click_00000075,imp_00003537,user_001740,Instagram,camp_009,placement_048,2024-04-05 15:02:21,tablet,students
+click_00000076,imp_00003568,user_003290,Facebook,camp_017,placement_024,2024-05-17 03:01:05,mobile,students
+click_00000077,imp_00003589,user_003011,Campus TV,camp_008,placement_021,2024-03-15 10:00:26,mobile,students
+click_00000078,imp_00003664,user_002771,YouTube,camp_006,placement_033,2024-07-23 11:04:49,mobile,faculty
+click_00000079,imp_00003695,user_002849,Facebook,camp_008,placement_026,2024-10-03 17:00:47,mobile,students
+click_00000080,imp_00003733,user_001254,Facebook,camp_017,placement_046,2024-02-19 20:00:21,mobile,alumni
+click_00000081,imp_00003782,user_000680,Campus Radio,camp_004,placement_042,2024-02-24 14:04:16,mobile,students
+click_00000082,imp_00003841,user_001635,Display Network,camp_016,placement_038,2024-11-28 00:04:59,desktop,students
+click_00000083,imp_00003912,user_002484,Display Network,camp_017,placement_014,2024-08-09 18:01:36,mobile,students
+click_00000084,imp_00003921,user_000616,Instagram,camp_009,placement_048,2024-01-21 16:02:09,tablet,students
+click_00000085,imp_00003926,user_002172,Campus Radio,camp_019,placement_028,2024-10-09 16:03:14,mobile,staff
+click_00000086,imp_00003971,user_001495,TikTok,camp_006,placement_043,2024-06-17 22:03:50,mobile,students
+click_00000087,imp_00004000,user_004805,Google Search,camp_007,placement_047,2024-08-12 07:02:50,desktop,students
+click_00000088,imp_00004060,user_003338,Facebook,camp_019,placement_040,2024-08-25 04:02:39,mobile,students
+click_00000089,imp_00004174,user_004257,Facebook,camp_015,placement_020,2024-01-30 02:01:59,mobile,students
+click_00000090,imp_00004178,user_002293,Campus Radio,camp_011,placement_039,2024-06-19 12:01:11,desktop,students
+click_00000091,imp_00004222,user_001360,Instagram,camp_003,placement_001,2024-04-20 05:04:24,mobile,students
+click_00000092,imp_00004299,user_003469,Display Network,camp_003,placement_013,2024-07-31 10:01:21,desktop,students
+click_00000093,imp_00004328,user_001668,Instagram,camp_014,placement_025,2024-07-07 02:02:02,tablet,students
+click_00000094,imp_00004366,user_003102,Instagram,camp_001,placement_023,2024-11-02 21:03:29,mobile,students
+click_00000095,imp_00004375,user_003755,YouTube,camp_006,placement_046,2024-05-19 00:03:33,mobile,students
+click_00000096,imp_00004384,user_001433,Google Search,camp_002,placement_009,2024-12-09 16:01:17,mobile,students
+click_00000097,imp_00004480,user_000949,Display Network,camp_007,placement_048,2024-07-02 02:01:09,mobile,students
+click_00000098,imp_00004599,user_004847,YouTube,camp_001,placement_030,2024-03-03 02:01:47,mobile,staff
+click_00000099,imp_00004617,user_004890,Campus TV,camp_009,placement_018,2024-10-14 07:00:32,mobile,students
+click_00000100,imp_00004695,user_000472,Instagram,camp_002,placement_013,2024-09-02 14:04:14,mobile,alumni
+click_00000101,imp_00004735,user_004803,TikTok,camp_004,placement_018,2024-03-17 23:01:46,desktop,faculty
+click_00000102,imp_00004744,user_004350,Instagram,camp_003,placement_034,2024-01-17 01:04:22,desktop,students
+click_00000103,imp_00004761,user_004435,Instagram,camp_019,placement_039,2024-04-27 22:02:48,mobile,alumni
+click_00000104,imp_00004782,user_004640,YouTube,camp_008,placement_003,2024-10-14 19:02:14,mobile,students
+click_00000105,imp_00004839,user_003987,YouTube,camp_017,placement_016,2024-04-08 01:02:19,desktop,students
+click_00000106,imp_00004861,user_000646,Instagram,camp_014,placement_009,2024-07-31 17:03:00,desktop,students
+click_00000107,imp_00004905,user_000186,Google Search,camp_014,placement_018,2024-04-01 20:04:18,mobile,students
+click_00000108,imp_00004925,user_001921,Google Search,camp_016,placement_017,2024-01-19 11:02:26,mobile,faculty
+click_00000109,imp_00004981,user_001190,Google Search,camp_013,placement_034,2024-02-26 15:00:10,mobile,students
+click_00000110,imp_00005038,user_003420,Campus TV,camp_002,placement_030,2024-02-13 10:04:11,mobile,students
+click_00000111,imp_00005083,user_002002,Campus Radio,camp_017,placement_047,2024-01-28 04:04:05,desktop,faculty
+click_00000112,imp_00005142,user_003982,TikTok,camp_018,placement_021,2024-03-02 17:00:37,tablet,students
+click_00000113,imp_00005154,user_003798,Facebook,camp_012,placement_005,2024-03-13 15:00:18,mobile,staff
+click_00000114,imp_00005201,user_002460,Display Network,camp_019,placement_031,2024-10-14 02:02:20,mobile,faculty
+click_00000115,imp_00005238,user_004361,Campus Radio,camp_019,placement_019,2024-11-11 17:01:42,desktop,students
+click_00000116,imp_00005294,user_002514,TikTok,camp_015,placement_049,2024-04-24 03:01:53,desktop,students
+click_00000117,imp_00005311,user_003074,Instagram,camp_010,placement_042,2024-11-24 16:02:11,desktop,students
+click_00000118,imp_00005346,user_003050,YouTube,camp_016,placement_030,2024-02-27 15:00:52,mobile,faculty
+click_00000119,imp_00005416,user_000749,Google Search,camp_009,placement_002,2024-03-25 06:02:54,tablet,faculty
+click_00000120,imp_00005538,user_001517,Campus Radio,camp_013,placement_030,2024-02-26 01:03:18,mobile,faculty
+click_00000121,imp_00005605,user_002760,Display Network,camp_018,placement_012,2024-11-14 07:01:01,desktop,students
+click_00000122,imp_00005618,user_004825,Campus TV,camp_016,placement_029,2024-12-05 05:04:04,tablet,staff
+click_00000123,imp_00005748,user_003603,Campus TV,camp_015,placement_041,2024-11-28 09:01:39,mobile,students
+click_00000124,imp_00005790,user_000418,TikTok,camp_009,placement_023,2024-12-15 14:04:27,mobile,faculty
+click_00000125,imp_00005820,user_000029,TikTok,camp_005,placement_021,2024-11-04 00:04:29,mobile,faculty
+click_00000126,imp_00005835,user_003024,Google Search,camp_012,placement_036,2024-10-23 13:04:41,mobile,faculty
+click_00000127,imp_00005873,user_004859,Google Search,camp_019,placement_031,2024-05-16 14:00:44,mobile,students
+click_00000128,imp_00005878,user_003071,Google Search,camp_011,placement_027,2024-04-16 13:03:13,tablet,staff
+click_00000129,imp_00005954,user_002553,Google Search,camp_005,placement_027,2024-01-13 13:04:31,mobile,students
+click_00000130,imp_00005966,user_002632,Instagram,camp_001,placement_004,2024-02-24 15:02:12,mobile,staff
+click_00000131,imp_00005997,user_001720,Campus TV,camp_016,placement_022,2024-08-30 16:00:49,mobile,staff
+click_00000132,imp_00006071,user_004432,Display Network,camp_016,placement_035,2024-02-19 12:01:47,mobile,students
+click_00000133,imp_00006173,user_002452,Campus Radio,camp_019,placement_035,2024-05-11 18:04:22,mobile,students
+click_00000134,imp_00006175,user_003988,Facebook,camp_019,placement_009,2024-09-29 08:04:44,desktop,students
+click_00000135,imp_00006301,user_003400,TikTok,camp_003,placement_047,2024-03-01 11:01:17,desktop,staff
+click_00000136,imp_00006369,user_002105,Campus TV,camp_004,placement_012,2024-12-16 01:04:31,mobile,students
+click_00000137,imp_00006378,user_000449,Campus Radio,camp_011,placement_005,2024-11-01 02:04:04,desktop,students
+click_00000138,imp_00006382,user_000534,YouTube,camp_013,placement_046,2024-10-15 19:00:58,mobile,faculty
+click_00000139,imp_00006424,user_001591,Campus Radio,camp_004,placement_045,2024-05-25 02:02:59,mobile,alumni
+click_00000140,imp_00006458,user_002210,Facebook,camp_002,placement_027,2024-01-29 02:01:55,mobile,students
+click_00000141,imp_00006544,user_003602,Campus TV,camp_009,placement_010,2024-10-09 19:01:43,mobile,students
+click_00000142,imp_00006605,user_002058,Instagram,camp_016,placement_020,2024-05-03 20:02:11,mobile,faculty
+click_00000143,imp_00006739,user_000652,Facebook,camp_001,placement_015,2024-04-06 07:04:55,mobile,alumni
+click_00000144,imp_00006834,user_003544,TikTok,camp_011,placement_044,2024-09-08 15:03:56,desktop,staff
+click_00000145,imp_00006842,user_001150,Campus TV,camp_004,placement_041,2024-11-12 12:03:33,mobile,students
+click_00000146,imp_00006870,user_003535,Google Search,camp_005,placement_008,2024-06-16 20:03:40,mobile,faculty
+click_00000147,imp_00006873,user_002929,TikTok,camp_011,placement_011,2024-07-01 10:02:09,mobile,alumni
+click_00000148,imp_00007005,user_002888,TikTok,camp_007,placement_036,2024-05-13 18:04:50,desktop,faculty
+click_00000149,imp_00007045,user_000879,Display Network,camp_005,placement_019,2024-10-19 06:04:19,mobile,students
+click_00000150,imp_00007158,user_003677,Google Search,camp_016,placement_018,2024-02-09 11:01:29,mobile,staff
+click_00000151,imp_00007219,user_002116,Google Search,camp_016,placement_017,2024-09-07 21:04:00,mobile,alumni
+click_00000152,imp_00007288,user_002254,YouTube,camp_003,placement_044,2024-05-10 02:01:36,mobile,students
+click_00000153,imp_00007368,user_004412,Facebook,camp_013,placement_023,2024-08-05 21:00:01,desktop,faculty
+click_00000154,imp_00007381,user_000235,Display Network,camp_018,placement_006,2024-03-25 21:01:58,mobile,students
+click_00000155,imp_00007382,user_003761,Campus Radio,camp_008,placement_018,2024-07-29 21:01:17,desktop,students
+click_00000156,imp_00007494,user_001283,YouTube,camp_007,placement_003,2024-09-17 20:00:36,desktop,alumni
+click_00000157,imp_00007537,user_002846,YouTube,camp_018,placement_032,2024-02-13 21:04:18,desktop,staff
+click_00000158,imp_00007677,user_003844,Campus Radio,camp_005,placement_006,2024-01-25 13:03:25,mobile,alumni
+click_00000159,imp_00007752,user_002935,Display Network,camp_010,placement_021,2024-01-14 10:04:03,desktop,staff
+click_00000160,imp_00007933,user_000863,Facebook,camp_016,placement_024,2024-01-06 12:00:33,mobile,students
+click_00000161,imp_00007961,user_002924,Google Search,camp_012,placement_003,2024-04-29 19:02:11,mobile,students
+click_00000162,imp_00007971,user_003008,Campus Radio,camp_015,placement_048,2024-08-05 09:02:11,desktop,students
+click_00000163,imp_00007980,user_004954,Instagram,camp_004,placement_034,2024-12-13 11:00:08,mobile,students
+click_00000164,imp_00007987,user_004632,YouTube,camp_009,placement_009,2024-12-14 01:00:34,tablet,students
+click_00000165,imp_00008017,user_001701,YouTube,camp_005,placement_002,2024-08-14 04:03:52,mobile,students
+click_00000166,imp_00008045,user_002705,Facebook,camp_002,placement_022,2024-12-06 12:01:51,mobile,students
+click_00000167,imp_00008083,user_001880,Campus Radio,camp_005,placement_033,2024-09-28 01:00:14,mobile,staff
+click_00000168,imp_00008164,user_003475,Display Network,camp_004,placement_011,2024-09-28 05:03:54,desktop,faculty
+click_00000169,imp_00008166,user_000064,YouTube,camp_001,placement_032,2024-03-06 08:01:28,mobile,faculty
+click_00000170,imp_00008167,user_003676,TikTok,camp_008,placement_035,2024-04-22 22:04:44,mobile,faculty
+click_00000171,imp_00008171,user_000742,Instagram,camp_002,placement_045,2024-02-08 01:01:02,desktop,students
+click_00000172,imp_00008241,user_002113,Campus TV,camp_013,placement_039,2024-02-17 22:02:59,mobile,faculty
+click_00000173,imp_00008313,user_000943,Instagram,camp_015,placement_037,2024-06-20 07:01:13,mobile,faculty
+click_00000174,imp_00008406,user_001506,YouTube,camp_002,placement_045,2024-07-12 03:01:23,desktop,students
+click_00000175,imp_00008424,user_003149,YouTube,camp_015,placement_002,2024-05-30 11:01:32,desktop,faculty
+click_00000176,imp_00008465,user_003308,Campus TV,camp_007,placement_045,2024-04-09 04:02:03,desktop,students
+click_00000177,imp_00008527,user_002376,YouTube,camp_005,placement_033,2024-05-19 20:04:56,mobile,alumni
+click_00000178,imp_00008531,user_000534,Campus TV,camp_002,placement_042,2024-07-20 16:01:45,mobile,staff
+click_00000179,imp_00008562,user_003692,Campus TV,camp_018,placement_010,2024-11-14 22:00:44,desktop,alumni
+click_00000180,imp_00008660,user_002050,Campus TV,camp_006,placement_033,2024-02-11 11:01:17,mobile,students
+click_00000181,imp_00008671,user_003477,Campus TV,camp_011,placement_008,2024-05-12 07:02:02,mobile,staff
+click_00000182,imp_00008697,user_004555,Google Search,camp_011,placement_037,2024-05-15 07:03:46,desktop,students
+click_00000183,imp_00008716,user_001824,Display Network,camp_004,placement_048,2024-04-30 19:00:18,mobile,students
+click_00000184,imp_00008729,user_002636,Display Network,camp_009,placement_007,2024-05-11 06:00:13,mobile,staff
+click_00000185,imp_00008812,user_004377,Instagram,camp_018,placement_033,2024-09-19 00:02:49,mobile,students
+click_00000186,imp_00009011,user_004564,Display Network,camp_002,placement_023,2024-05-19 00:03:18,mobile,students
+click_00000187,imp_00009063,user_003412,Campus Radio,camp_009,placement_020,2024-03-01 05:00:42,desktop,faculty
+click_00000188,imp_00009146,user_000783,Display Network,camp_006,placement_044,2024-06-21 14:02:18,mobile,students
+click_00000189,imp_00009185,user_004679,TikTok,camp_010,placement_011,2024-07-07 02:00:45,mobile,students
+click_00000190,imp_00009238,user_002474,Instagram,camp_019,placement_024,2024-05-19 11:02:53,mobile,faculty
+click_00000191,imp_00009247,user_003907,YouTube,camp_017,placement_049,2024-08-20 03:04:54,tablet,faculty
+click_00000192,imp_00009293,user_004434,Campus Radio,camp_002,placement_031,2024-12-14 04:03:26,mobile,students
+click_00000193,imp_00009321,user_003995,Google Search,camp_018,placement_016,2024-08-28 11:02:41,desktop,students
+click_00000194,imp_00009357,user_001439,Google Search,camp_011,placement_006,2024-08-07 22:03:26,mobile,staff
+click_00000195,imp_00009391,user_001327,Facebook,camp_016,placement_040,2024-04-07 22:01:54,mobile,students
+click_00000196,imp_00009497,user_002999,Google Search,camp_001,placement_005,2024-12-18 11:01:06,desktop,alumni
+click_00000197,imp_00009532,user_000096,Facebook,camp_009,placement_027,2024-07-27 17:01:18,tablet,students
+click_00000198,imp_00009692,user_002360,YouTube,camp_007,placement_049,2024-08-04 08:00:47,tablet,students
+click_00000199,imp_00009723,user_002217,Display Network,camp_003,placement_037,2024-03-05 20:01:11,mobile,students
+click_00000200,imp_00009737,user_001757,Instagram,camp_003,placement_033,2024-10-13 14:04:27,mobile,students
+click_00000201,imp_00009764,user_000809,Campus Radio,camp_015,placement_015,2024-08-01 02:00:27,tablet,students
+click_00000202,imp_00009793,user_004519,YouTube,camp_012,placement_018,2024-09-03 21:03:02,mobile,faculty
+click_00000203,imp_00009797,user_002159,Facebook,camp_007,placement_040,2024-02-20 20:02:11,mobile,alumni
+click_00000204,imp_00009869,user_000362,TikTok,camp_019,placement_008,2024-11-27 16:01:28,mobile,students
+click_00000205,imp_00009890,user_001517,Campus Radio,camp_001,placement_002,2024-11-17 07:00:47,desktop,students
+click_00000206,imp_00009909,user_004818,Facebook,camp_019,placement_035,2024-01-07 01:01:20,mobile,faculty
+click_00000207,imp_00009919,user_003066,Campus TV,camp_002,placement_011,2024-03-29 11:02:12,desktop,students
+click_00000208,imp_00009954,user_002870,Display Network,camp_014,placement_019,2024-08-30 17:03:59,mobile,faculty
+click_00000209,imp_00009966,user_004884,Display Network,camp_016,placement_012,2024-09-13 19:04:28,mobile,staff
+click_00000210,imp_00009992,user_003580,Campus TV,camp_014,placement_046,2024-04-02 09:04:52,mobile,students

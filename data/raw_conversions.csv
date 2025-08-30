@@ -1,0 +1,12 @@
+conversion_id,click_id,user_id,channel,campaign_id,ad_placement,conversion_timestamp,conversion_value,conversion_type,device_type,audience_segment
+conv_00000000,click_00000004,user_002539,Campus TV,camp_004,placement_037,2024-10-15 19:02:09,301.75594584261,signup,mobile,students
+conv_00000001,click_00000007,user_000703,Display Network,camp_019,placement_023,2024-07-02 19:02:56,183.36484249080047,signup,desktop,faculty
+conv_00000002,click_00000043,user_000038,Google Search,camp_006,placement_037,2024-05-08 23:03:33,358.20685655649874,purchase,desktop,faculty
+conv_00000003,click_00000063,user_001400,Campus TV,camp_008,placement_048,2024-08-12 01:03:31,241.16740624341685,purchase,mobile,staff
+conv_00000004,click_00000080,user_001254,Facebook,camp_017,placement_046,2024-02-20 12:00:21,397.2098249209953,download,mobile,alumni
+conv_00000005,click_00000102,user_004350,Instagram,camp_003,placement_034,2024-01-18 22:04:22,161.2373436102576,purchase,desktop,students
+conv_00000006,click_00000110,user_003420,Campus TV,camp_002,placement_030,2024-02-13 15:04:11,124.62434610863966,signup,mobile,students
+conv_00000007,click_00000112,user_003982,TikTok,camp_018,placement_021,2024-03-02 23:00:37,49.06096311268557,signup,tablet,students
+conv_00000008,click_00000181,user_003477,Campus TV,camp_011,placement_008,2024-05-12 09:02:02,291.7018495195473,download,mobile,staff
+conv_00000009,click_00000207,user_003066,Campus TV,camp_002,placement_011,2024-03-31 04:02:12,267.33931499783915,purchase,desktop,students
+conv_00000010,click_00000210,user_003580,Campus TV,camp_014,placement_046,2024-04-03 16:04:52,54.3766606321048,download,mobile,students
