@@ -6,7 +6,7 @@ This project simulates the decision-making process of a marketing analyst at a c
 
 ---
 
-## 🚀 Features
+## Features
 - **Data Pipeline (SQL + Python):**
   - Cleaned and transformed ~2M synthetic ad impression & clickstream records.
   - Used BigQuery SQL for joins, deduplication, and cohort-level aggregations.  
@@ -41,26 +41,26 @@ campus-ad-spend-efficiency/
 ```
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Languages & Tools:** SQL (BigQuery), Python (pandas, numpy, scikit-learn, statsmodels)  
 - **Visualization:** Looker Studio, matplotlib, seaborn  
 - **Methods:** Attribution modeling, A/B testing, statistical inference, ROI optimization  
 
 ---
 
-## 📈 Results
+## Results
 - Identified top-performing ad placements (20% placements → 62% conversions).  
 - Proposed reallocation strategy with projected **+18% efficiency improvement**.  
 - Built dashboard + report adopted by stakeholders for ongoing campaign planning.  
 
 ---
 
-## � How to Run This Project
+##  How to Run This Project
 
 ### **Quick Start (2 minutes)**
 ```bash
 # 1. Clone the repository
-git clone https://github.com/harshala334/Campus-Ad-Spend-Efficiency.git
+git clone https://github.com/srushti89/Campus-Ad-Spend-Efficiency.git
 cd Campus-Ad-Spend-Efficiency
 
 # 2. Install dependencies
@@ -75,7 +75,7 @@ jupyter notebook
 
 ### **Step-by-Step Analysis**
 
-**📊 Start Here:**
+**Start Here:**
 1. **Open `notebooks/01_data_cleaning.ipynb`**
    - Run all cells to load and explore the synthetic data
    - View data quality assessment and cleaning results
@@ -99,10 +99,10 @@ jupyter notebook
 ### **What You'll See**
 
 **Sample Data Generated:**
-- 🎯 **10,000 ad impressions** across 8 channels
-- 📱 **211 clicks** (2.11% CTR) with device/audience breakdown
-- 💰 **11 conversions** (5.21% conversion rate)
-- 📅 **Full year 2024** time-based patterns
+-  **10,000 ad impressions** across 8 channels
+-  **211 clicks** (2.11% CTR) with device/audience breakdown
+-  **11 conversions** (5.21% conversion rate)
+-  **Full year 2024** time-based patterns
 
 **Key Insights You'll Discover:**
 - **Top performing channels** by efficiency score
@@ -143,12 +143,12 @@ jupyter notebook --port=8888
 
 ---
 
-## �📸 Sample Dashboard
+## Sample Dashboard
 *(Add screenshot of Looker Studio dashboard here once created)*  
 
 ---
 
-## 🔮 Next Steps
+## Next Steps
 - Extend to include **causal inference (uplift modeling)** for more precise ROI attribution.  
 - Automate pipeline with Airflow for scheduled analysis.  
 
